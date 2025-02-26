@@ -1,4 +1,4 @@
-# 🚀 Solana Arbitrage Bot 🦄
+# ✨ Solana Arbitrage Bot 
 
 Welcome to the **Solana Arbitrage Bot**, your friendly multi-dex arbitrage bot for finding profits across different Solana DEXs (Solana, Raydium, Orca). 
 
@@ -6,7 +6,7 @@ Ready to start earning? Follow the steps below to get the bot running.
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Open your terminal** and install dependencies:
     ```bash
@@ -45,7 +45,7 @@ Once everything is set up, you're ready to run the bot:
 
 ---
 
-## 🤖 How It Works
+## How It Works
 
 This bot scans the prices on multiple DEXs and looks for price differences that allow you to make a profit by swapping SOL between them. It's fast, it's efficient, and it's always looking for opportunities!
 
@@ -64,4 +64,4 @@ If you have any issues or questions, feel free to open an issue or contact the b
 
 ---
 
-Happy trading! 💸
+Happy trading! 
